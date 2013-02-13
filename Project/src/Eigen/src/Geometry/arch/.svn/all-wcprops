@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/37383/projects/GraphCHI/noexec/Eigen/src/Geometry/arch
+END
+Geometry_SSE.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/37383/projects/GraphCHI/noexec/Eigen/src/Geometry/arch/Geometry_SSE.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/37383/projects/GraphCHI/noexec/Eigen/src/Geometry/arch/CMakeLists.txt
+END

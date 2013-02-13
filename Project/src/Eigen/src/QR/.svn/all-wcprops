@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/37383/projects/GraphCHI/noexec/Eigen/src/QR
+END
+ColPivHouseholderQR.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/37383/projects/GraphCHI/noexec/Eigen/src/QR/ColPivHouseholderQR.h
+END
+HouseholderQR.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/37383/projects/GraphCHI/noexec/Eigen/src/QR/HouseholderQR.h
+END
+FullPivHouseholderQR.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/37383/projects/GraphCHI/noexec/Eigen/src/QR/FullPivHouseholderQR.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/37383/projects/GraphCHI/noexec/Eigen/src/QR/CMakeLists.txt
+END

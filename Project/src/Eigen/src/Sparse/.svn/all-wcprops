@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/37383/projects/GraphCHI/noexec/Eigen/src/Sparse
+END
+CompressedStorage.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/37383/projects/GraphCHI/noexec/Eigen/src/Sparse/CompressedStorage.h
+END
+AmbiVector.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/37383/projects/GraphCHI/noexec/Eigen/src/Sparse/AmbiVector.h
+END
+SparseUtil.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/37383/projects/GraphCHI/noexec/Eigen/src/Sparse/SparseUtil.h
+END
+SparseCwiseBinaryOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/37383/projects/GraphCHI/noexec/Eigen/src/Sparse/SparseCwiseBinaryOp.h
+END
+SparseTranspose.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/37383/projects/GraphCHI/noexec/Eigen/src/Sparse/SparseTranspose.h
+END
+SparseDiagonalProduct.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/37383/projects/GraphCHI/noexec/Eigen/src/Sparse/SparseDiagonalProduct.h
+END
+SparseProduct.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/37383/projects/GraphCHI/noexec/Eigen/src/Sparse/SparseProduct.h
+END
+SparseAssign.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/37383/projects/GraphCHI/noexec/Eigen/src/Sparse/SparseAssign.h
+END
+TriangularSolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/37383/projects/GraphCHI/noexec/Eigen/src/Sparse/TriangularSolver.h
+END
+SparseDot.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/37383/projects/GraphCHI/noexec/Eigen/src/Sparse/SparseDot.h
+END
+SparseFuzzy.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/37383/projects/GraphCHI/noexec/Eigen/src/Sparse/SparseFuzzy.h
+END
+SparseRedux.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/37383/projects/GraphCHI/noexec/Eigen/src/Sparse/SparseRedux.h
+END
+SparseCwiseUnaryOp.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/37383/projects/GraphCHI/noexec/Eigen/src/Sparse/SparseCwiseUnaryOp.h
+END
+SparseBlock.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/37383/projects/GraphCHI/noexec/Eigen/src/Sparse/SparseBlock.h
+END
+MappedSparseMatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/37383/projects/GraphCHI/noexec/Eigen/src/Sparse/MappedSparseMatrix.h
+END
+SparseSelfAdjointView.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/37383/projects/GraphCHI/noexec/Eigen/src/Sparse/SparseSelfAdjointView.h
+END
+SparseSparseProduct.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/37383/projects/GraphCHI/noexec/Eigen/src/Sparse/SparseSparseProduct.h
+END
+SparseDenseProduct.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/37383/projects/GraphCHI/noexec/Eigen/src/Sparse/SparseDenseProduct.h
+END
+SparseMatrixBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/37383/projects/GraphCHI/noexec/Eigen/src/Sparse/SparseMatrixBase.h
+END
+SparseVector.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/37383/projects/GraphCHI/noexec/Eigen/src/Sparse/SparseVector.h
+END
+SparseTriangularView.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/37383/projects/GraphCHI/noexec/Eigen/src/Sparse/SparseTriangularView.h
+END
+SparseMatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/37383/projects/GraphCHI/noexec/Eigen/src/Sparse/SparseMatrix.h
+END
+CoreIterators.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/37383/projects/GraphCHI/noexec/Eigen/src/Sparse/CoreIterators.h
+END
+DynamicSparseMatrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/37383/projects/GraphCHI/noexec/Eigen/src/Sparse/DynamicSparseMatrix.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/37383/projects/GraphCHI/noexec/Eigen/src/Sparse/CMakeLists.txt
+END
+SparseView.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/37383/projects/GraphCHI/noexec/Eigen/src/Sparse/SparseView.h
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/37383/projects/GraphCHI/noexec/Eigen/src/Eigenvalues
+END
+ComplexEigenSolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/37383/projects/GraphCHI/noexec/Eigen/src/Eigenvalues/ComplexEigenSolver.h
+END
+Tridiagonalization.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/37383/projects/GraphCHI/noexec/Eigen/src/Eigenvalues/Tridiagonalization.h
+END
+ComplexSchur.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/37383/projects/GraphCHI/noexec/Eigen/src/Eigenvalues/ComplexSchur.h
+END
+GeneralizedSelfAdjointEigenSolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/37383/projects/GraphCHI/noexec/Eigen/src/Eigenvalues/GeneralizedSelfAdjointEigenSolver.h
+END
+EigenvaluesCommon.h
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/37383/projects/GraphCHI/noexec/Eigen/src/Eigenvalues/EigenvaluesCommon.h
+END
+EigenSolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/37383/projects/GraphCHI/noexec/Eigen/src/Eigenvalues/EigenSolver.h
+END
+HessenbergDecomposition.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/37383/projects/GraphCHI/noexec/Eigen/src/Eigenvalues/HessenbergDecomposition.h
+END
+SelfAdjointEigenSolver.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/37383/projects/GraphCHI/noexec/Eigen/src/Eigenvalues/SelfAdjointEigenSolver.h
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/37383/projects/GraphCHI/noexec/Eigen/src/Eigenvalues/CMakeLists.txt
+END
+MatrixBaseEigenvalues.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/37383/projects/GraphCHI/noexec/Eigen/src/Eigenvalues/MatrixBaseEigenvalues.h
+END
+RealSchur.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/37383/projects/GraphCHI/noexec/Eigen/src/Eigenvalues/RealSchur.h
+END
